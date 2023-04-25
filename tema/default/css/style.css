@@ -1,0 +1,17 @@
+/* style.css */
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: 12px Arial;
+}
+a {text-decoration: none} 
+ul {list-style: none}
+
+/* Slider */
+#slider {margin: 20px; width: 1000px;}
+.slider {width: 1000px; height: 100px; overflow: hidden}
+.slider ul {overflow: hidden}
+.slider ul li {width: 1000px; height: 100px; float: left;}
+.sliderButon {text-align: right; padding-top: 10px;}
+.sliderButon a {background: #333; color: #fff; padding: 5px;}

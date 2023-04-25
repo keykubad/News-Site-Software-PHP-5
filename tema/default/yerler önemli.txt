@@ -1,0 +1,19 @@
+1 Üst kýsým reklamlarý
+2 Ufak ara reklam
+3 Manþet altý reklam
+4 Son Haberler Altý
+5 Sag Blok Gazete OKu
+6 Kose yazarlarý 1. reklam
+7 Kose yazarlarý 2. reklam
+10 - galeri reklam
+11 - sabit sayfa reklamlarý
+
+
+MODULLER
+
+1 SAG Blok 
+2 YAN Blok
+3 MANSET ALTI
+4 Son Haber Altý
+5 Üst Ara Kýsým
+6 Ýç Haber Okuma
